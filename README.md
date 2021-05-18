@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Ben, I do many stuff. 👋
 
 <!--
 **Bensuo/Bensuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
